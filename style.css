@@ -1,0 +1,77 @@
+span{
+    color: orange;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.top-part{
+    width: 50%;
+    margin-top: 60px;
+    margin-left: 100px;
+    padding-left: 50px;
+}
+.top img{
+    width: 50%;
+}
+.top{
+    display: flex;
+}
+h5{
+    color: gray;
+}
+.anchor{
+    text-decoration: none;
+    background-image: linear-gradient(to right, red, orange);
+    padding: 10px;
+    color: white;
+    border-radius: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.middle{
+    display: flex;
+ 
+}
+.image img{
+width: 200px;
+height: 300px;
+margin-left: 250px;
+}
+.mid-part{
+    width: 50%;
+    margin-left: 350px;
+    margin-right: 150px;
+   
+}
+.image{
+    width: 50%;
+}
+.middle{
+    background-image: url(images/shapes/7.png);
+    margin-left: 0px;
+}
+.receipe{
+    text-align: center;
+}
+.last{
+    display: flex;
+}
+.last img{
+    width: 100%;
+}
+.last-part{
+    width:220px;
+    margin-left: 200px;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height:150px;
+    margin-left: 170px;
+    margin-right: 80px;
+}
+h4{
+  font-size: 10px;
+}
